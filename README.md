@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**By-Michael/By-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Ethiopia 🇪🇹, building practical web apps for real-world use.
 
-Here are some ideas to get you started:
+## 🔧 Tech I work with
+- **Frontend:** JavaScript (Vanilla), HTML, CSS
+- **Backend:** PHP
+- **Database:** MySQL
+- **Tools:** GitHub Actions, PHPMailer, Chart.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+- **SpendWize** — A personal finance tracker for Ethiopian users, with full Amharic (አማርኛ) language support and ETB currency
+
+## 📫 Connect with me
+- LinkedIn: [michael-defaru](https://linkedin.com/in/michael-defaru-0a56263ba)
